@@ -1,4 +1,4 @@
-# 📚 Atividade Prática Final: Raciocínio Lógico Algorítmico (N683 - Unifor)
+# 📚 Atividade Prática Final: Raciocínio Lógico Algorítmico 
 
 ## Descrição do Projeto
 Este projeto implementa o cálculo da média simples vetorial, a ordenação dos dados e a contagem de alunos aprovados e reprovados. Foi desenvolvido em **JavaScript** seguindo todos os requisitos da disciplina.
