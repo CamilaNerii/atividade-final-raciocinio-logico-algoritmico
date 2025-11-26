@@ -26,4 +26,4 @@ As seguintes estruturas e métodos foram utilizados, conforme as restrições da
 5.  O resultado será apresentado na tela utilizando `document.write()`.
 
 
-*Desenvolvido por: Camila Neri*
+*Desenvolvido por: Camila Neri.*
