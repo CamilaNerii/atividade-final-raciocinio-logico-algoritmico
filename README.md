@@ -20,7 +20,7 @@ As seguintes estruturas e métodos foram utilizados, conforme as restrições da
 ## Como Executar
 
 1.  Clone este repositório para sua máquina local.
-2.  Abra o arquivo de código (exemplo: `provaok.html` ou o `.txt` com o script) em qualquer navegador web moderno.
+2.  Abra o arquivo de código (exemplo: `projetofinal.html` ou o `.txt` com o script) em qualquer navegador web moderno.
 3.  O script será executado, solicitando as entradas de dados (quantidade de alunos, nomes e notas) via caixas de diálogo `prompt()`.
 4.  O resultado será apresentado na tela utilizando `document.write()`.
 
